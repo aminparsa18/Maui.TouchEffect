@@ -9,3 +9,5 @@ Regsiter in your MauiProgram class:
                     .
                     .
                     .
+                    
+Reach out to Xamarin Community Toolkit for samples: https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Effects/TouchEffectPage.xaml
